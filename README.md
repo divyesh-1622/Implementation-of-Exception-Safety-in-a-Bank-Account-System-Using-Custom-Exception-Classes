@@ -1,0 +1,2 @@
+# Implementation-of-Exception-Safety-in-a-Bank-Account-System-Using-Custom-Exception-Classes
+This C++ project demonstrates custom exception handling through a simple bank account system. It defines a base BankException and derived exceptions for insufficient funds and invalid amounts. The BankAccount class supports validated deposits and withdrawals, while try-catch blocks handle withdrawal errors and display account details.
